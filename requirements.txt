@@ -9,4 +9,3 @@ python-multipart==0.0.5
 tensorflow==2.4.1
 opencv-python==4.4.0.42
 fastai==1.0.61
-cupy-cuda110
